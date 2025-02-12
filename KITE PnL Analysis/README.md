@@ -11,7 +11,9 @@ Jupyter Notebook 📓
 The script processes an orders CSV file and generates a summary Excel file with three sheets:
 
 Trade Charges: Breaks down charges for individual trades.
+
 Stock-wise & Type-wise Analysis: Computes weighted average price and total charges.
+
 Overall Summary: Calculates Gross PnL, Net PnL, and percentage of charges on Gross PnL.
 
 📈 Example Output
